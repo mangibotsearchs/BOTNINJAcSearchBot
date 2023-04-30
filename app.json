@@ -8,9 +8,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/Cyniteofficial/mdisksearchbotv2",
-    "website": "https://telegram.dog/cynitesuppoRt",
-    "success_url": "https://t.me/mdisksearchroBot",
+    "repository": "https://github.com/mangibotsearchs/BOTNINJAcSearchBot",
+    "website": "https://telegram.dog/BOTNINJA_4",
+    "success_url": "https://t.me/BOTNINJA_request_bot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
